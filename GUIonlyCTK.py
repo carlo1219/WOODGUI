@@ -1,7 +1,7 @@
 import tkinter as tk  # Still need standard tkinter for Canvas
 import customtkinter as ctk
 from datetime import datetime
-import time
+import timee
 
 # =============================================================================
 # UI CONFIGURATION SECTION - Customize the user interface appearance and behavior
